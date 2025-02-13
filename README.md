@@ -16,7 +16,7 @@
 <a href="https://twitter.com/vchaurasiya34701" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vchaurasiya34701" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vinay chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vinay chaurasiya" height="30" width="40" /></a>
 <a href="https://instagram.com/imvinay0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="imvinay0" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/@imvinay01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@imvinay01" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@imvinay01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@imvinay01" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vinay chaurasiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vinay chaurasiya" height="30" width="40" /></a>
 </p>
 
